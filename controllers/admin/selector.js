@@ -158,6 +158,7 @@ exports.getValueEdit = function (req, res, next) {
     })
     res.render('admin/selector_value_edit', {
       _id: _id,
+      _sid: _sid,
       model: m,
       layout: 'admin'
     })
