@@ -2,7 +2,7 @@
 
 ## Example
 
-[http://120.132.14.20:8080/](http://120.132.14.20:8080/)
+[https://snimay.herokuapp.com/](https://snimay.herokuapp.com/)
 
 ## Quick Start Install
 
